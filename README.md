@@ -30,3 +30,5 @@ pip install -r requirements.txt
 ### Запуск парсера:
 ```
 scrapy crawl pep
+
+Автор: [Настасья Мартынова](https://github.com/Nastasya-M)
